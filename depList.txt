@@ -1,0 +1,3 @@
+# New line separated list of dependencies
+# Ignores comments
+github.com/aws/aws-sdk-go
